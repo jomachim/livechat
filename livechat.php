@@ -3,7 +3,7 @@
  * Plugin Name: Live Chat With SocketIo distant server !
  * Plugin URI: http://www.pour-le-web.com/
  * Description: Ce plugin vous permet de communiquer en live
- * Version: Version 2.1.5
+ * Version: 1.0.1
  * Author: joachim
  * Author URI:  http://www.pour-le-web.com
  * License: GPL2 license
