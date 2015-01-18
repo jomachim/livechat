@@ -6,4 +6,8 @@ once activated, use the shortcode as below :
 
 \[livechat serveur="http://your_server:port"\] (leave empty for default chat ui) \[/livechat\]
 
+so it comes with funny features from chat server as
+*define your how server address (hosting need premium account for only 5€/month and is per-site key activated) 
+*a LOTERIE ! (bingo!) users can bet on a between 1 & 100 winning number that initialize every 2 minutes.
+* hightly hackable !
 
